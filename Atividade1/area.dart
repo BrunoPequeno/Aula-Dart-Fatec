@@ -4,7 +4,7 @@ import 'dart:math';
 void main(List<String> args) {
   List<String> inputs = stdin.readLineSync().toString().trim().split(" ");
 
-  double a = double.parse(inputs[0]);
+  double v = double.parse(inputs[0]);
   double b = double.parse(inputs[2]);
   double c = double.parse(inputs[2]);
 
